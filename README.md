@@ -1,2 +1,2 @@
-# js-playground
-A code repository to explore the javascript programming language.
+# doict-bootcamp
+A code repository to practice various projects of 40 day coding bootcamp.
